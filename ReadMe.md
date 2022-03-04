@@ -12,7 +12,7 @@
 
 ### 학력
 
-- 서울과학기술대학교 컴퓨터공학과 : 2015.02 ~ 2022.02(졸업예정)
+- 서울과학기술대학교 컴퓨터공학과 : 2015.02 ~ 2022.02
 
 ### 보유 기술
 
@@ -33,6 +33,7 @@
 
 Github
 
+- [시연 영상](https://www.youtube.com/watch?v=2taqqWY0Bdc)
 - [https://github.com/guswns3371/Coconut](https://github.com/guswns3371/Coconut)
 - [https://github.com/guswns3371/coconut-spring-server](https://github.com/guswns3371/coconut-spring-server)
 
