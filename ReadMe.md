@@ -27,7 +27,7 @@ Email : [guswns3371@gmail.com](mailto:guswns3371@gmail.com)
 | Kotlin     | 중급 |
 | Python     | 중급 |
 
-## 자격증
+### 자격증
 
 정보처리기사 자격증 (2021.11)
 
