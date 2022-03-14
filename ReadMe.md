@@ -26,19 +26,26 @@ Blog : [https://velog.io/@guswns3371](https://velog.io/@guswns3371)
 
 ## 👨‍💻 주요 프로젝트
 
-### Coconut
+### [Coconut] 실시간 그룹채팅 어플리케이션 
+  
+![](https://raw.githubusercontent.com/guswns3371/CoconutAndroid/master/app/src/main/res/mipmap-hdpi/ic_launcher_coconut.png) <br/>
+[Youtube : 시연 영상](https://www.youtube.com/watch?v=2taqqWY0Bdc)  
+[FE : Android](https://github.com/guswns3371/Coconut)  
+[BE : Spring Boot Application](https://github.com/guswns3371/coconut-spring-server)  
 
-[시연 영상](https://www.youtube.com/watch?v=2taqqWY0Bdc)  
-[https://github.com/guswns3371/Coconut](https://github.com/guswns3371/Coconut)  
-[https://github.com/guswns3371/coconut-spring-server](https://github.com/guswns3371/coconut-spring-server)  
+<br/>
+  
+### [Connect-Us] 소상공인 전용 온라인 판매 플랫폼 
+[BE : Spring Boot Application](https://github.com/guswns3371/connect-us)  
+
+<br/>
+
+### [AllThatLyrics] 소셜 네트워크 어플리케이션 
+
+[FE : Android](https://github.com/guswns3371/AllThatLyrics)  
 
   
-### Connect-Us
-
-[https://github.com/guswns3371/connect-us](https://github.com/guswns3371/connect-us)  
+<br/>
   
-### AllThatLyrics
-
-[https://github.com/guswns3371/AllThatLyrics](https://github.com/guswns3371/AllThatLyrics)  
 
 </div>
