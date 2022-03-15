@@ -64,10 +64,11 @@
 
 <br/>
 
-### `AllThatLyrics`<br/>소셜 네트워크 어플리케이션 
+### `Talky`<br/>소셜 네트워크 어플리케이션 
 
 [FE : Android](https://github.com/guswns3371/AllThatLyrics)  
 
+[BE : PHP, Nodejs](https://github.com/guswns3371/talky)
   
 <br/>
   
