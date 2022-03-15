@@ -1,8 +1,8 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&section=header&text=하현준(guswns3371)&fontSize=45&animation=fadeIn)
+<!-- ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&section=header&text=하현준(guswns3371)&fontSize=45&animation=fadeIn) -->
   
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=215&section=header&text=하현준&fontSize=60&animation=fadeIn&fontAlignY=38&desc=guswns3371&descAlignY=55&descAlign=52)
   
 ## 🙋‍♂️ 소개 
 
