@@ -16,7 +16,7 @@
   
 ### 연락처
 
-Email : [guswns3371@gmail.com](mailto:guswns3371@gmail.com) 
+✉️ [guswns3371@gmail.com](mailto:guswns3371@gmail.com) 
 
 ### 보유 기술
 
