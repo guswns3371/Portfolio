@@ -63,7 +63,7 @@
   
 | **📌 정보** |
 | :---: |
-| [Youtube : 시연 영상](https://www.youtube.com/watch?v=2taqqWY0Bdc) <br/> [FE : Android](https://github.com/guswns3371/Coconut) <br/> [BE : Spring Boot Application](https://github.com/guswns3371/coconut-spring-server) |
+| [**👉Youtube : 시연 영상👈**](https://www.youtube.com/watch?v=2taqqWY0Bdc) <br/> [FE : Android](https://github.com/guswns3371/Coconut) <br/> [BE : Spring Boot Application](https://github.com/guswns3371/coconut-spring-server) |
 | **📌 사용 기술** |
 | `Spring Boot` `Spring Data JPA` `Gradle` `Java` `WebSocket` `OAuth` `MariaDB`<br/>`FCM(Firebase Cloud Messaging)` `Android` `Kotlin` `Koin` `GitHub` `AWS EC2` `Jenkins` |
 | **📌 팀 구성** |
