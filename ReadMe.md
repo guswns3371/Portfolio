@@ -64,6 +64,8 @@
 | **📌 정보** |
 | :---: |
 | [**👉Youtube : 시연 영상👈**](https://www.youtube.com/watch?v=2taqqWY0Bdc)<br/> [**👉README👈**](https://github.com/guswns3371/CoconutSpringBoot/blob/master/ReadMe.md) <br/> [FE : Android](https://github.com/guswns3371/Coconut) <br/> [BE : Spring Boot Application](https://github.com/guswns3371/coconut-spring-server) |
+| **📌 기간** |
+| 2021.03 ~ 2021.09 |
 | **📌 사용 기술** |
 | `Spring Boot` `Spring Data JPA` `Gradle` `Java` `WebSocket` `OAuth` `MariaDB`<br/>`FCM(Firebase Cloud Messaging)` `Android` `Kotlin` `Koin` `GitHub` `AWS EC2` `Jenkins` |
 | **📌 팀 구성** |
@@ -82,6 +84,8 @@
 | **📌 정보** |
 | :---: |
 | [BE : Spring Boot Application](https://github.com/guswns3371/connect-us)  |
+| **📌 기간** |
+| 2020.08 ~ 2020.11|
 | **📌 사용 기술** |
 | `Spring Boot` `Spring Data JPA` `Docker` `MariaDB` |
 | **📌 팀 구성** |
@@ -97,6 +101,8 @@
 | **📌 정보** |
 | :---: |
 | [**👉Youtube : 시연 영상👈**](https://youtu.be/1aEfryppHv4) <br/>[**👉README👈**](https://github.com/guswns3371/AllThatLyrics/blob/master/README.md)<br/> [FE : Android](https://github.com/guswns3371/AllThatLyrics) <br/> [BE : PHP, Nodejs](https://github.com/guswns3371/talky)|
+| **📌 기간** |
+| 2020.03 ~ 2020.07 |
 | **📌 사용 기술** |
 | `Android` `Nodejs` `PHP` `MySQL` `FCM` |
 | **📌 팀 구성** |
