@@ -96,7 +96,7 @@
 
 | **📌 정보** |
 | :---: |
-| [**👉Youtube : 시연 영상👈**](https://youtu.be/1aEfryppHv4) <br/> [FE : Android](https://github.com/guswns3371/AllThatLyrics) <br/> [BE : PHP, Nodejs](https://github.com/guswns3371/talky) |
+| [**👉Youtube : 시연 영상👈**](https://youtu.be/1aEfryppHv4) <br/>[**README**](https://github.com/guswns3371/AllThatLyrics/blob/master/README.md)<br/> [FE : Android](https://github.com/guswns3371/AllThatLyrics) <br/> [BE : PHP, Nodejs](https://github.com/guswns3371/talky)|
 | **📌 사용 기술** |
 | `Android` `Nodejs` `PHP` `MySQL` `FCM` |
 | **📌 팀 구성** |
