@@ -84,7 +84,7 @@
   
 | **📌 정보** |
 | :---: |
-| [BE : Spring Boot Application](https://github.com/guswns3371/connect-us)  |
+| [BE : Spring Boot Application](https://github.com/guswns3371/ConnectUs)  |
 | **📌 기간** |
 | 2020.08 ~ 2020.11|
 | **📌 사용 기술** |
