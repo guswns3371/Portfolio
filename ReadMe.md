@@ -96,7 +96,15 @@
 
 | **📌 정보** |
 | :---: |
-| [FE : Android](https://github.com/guswns3371/AllThatLyrics) <br/> [BE : PHP, Nodejs](https://github.com/guswns3371/talky) |
+| [**👉Youtube : 시연 영상👈**](https://youtu.be/1aEfryppHv4) <br/> [FE : Android](https://github.com/guswns3371/AllThatLyrics) <br/> [BE : PHP, Nodejs](https://github.com/guswns3371/talky) |
+| **📌 사용 기술** |
+| `Android` `Nodejs` `PHP` `MySQL` `FCM` |
+| **📌 팀 구성** |
+| 1인팀 |
+| **📌 수행 역할** |
+| 실시간 그룹 채팅 및 알림 기능 |
+| 1대1 영상 통화 기능 |
+| 소셜 네트워크 피드 기능(인스타그램과 유사함) |
 
   
 <br/>
