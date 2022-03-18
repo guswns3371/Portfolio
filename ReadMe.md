@@ -63,7 +63,7 @@
   
 | **📌 정보** |
 | :---: |
-| [**👉Youtube : 시연 영상👈**](https://www.youtube.com/watch?v=2taqqWY0Bdc)<br/> [**👉README👈**](https://github.com/guswns3371/CoconutSpringBoot/blob/master/ReadMe.md) <br/> [FE : Android](https://github.com/guswns3371/Coconut) <br/> [BE : Spring Boot Application](https://github.com/guswns3371/coconut-spring-server) |
+| [**👉Youtube : 시연 영상👈**](https://www.youtube.com/watch?v=2taqqWY0Bdc)<br/> [**👉README👈**](https://github.com/guswns3371/CoconutSpringBoot/blob/master/ReadMe.md) <br/> [보고서](https://drive.google.com/file/d/1HIrOXcOBjH1FzkhJMr0LabmP55UyJ6cM/view?usp=sharing)<br/>  [FE : Android](https://github.com/guswns3371/Coconut) <br/> [BE : Spring Boot Application](https://github.com/guswns3371/coconut-spring-server) |
 | **📌 기간** |
 | 2021.03 ~ 2021.09 |
 | **📌 사용 기술** |
