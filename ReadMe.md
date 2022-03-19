@@ -17,7 +17,7 @@
   
 ### 연락처
 
-#### ✉️ [guswns3371@gmail.com](mailto:guswns3371@gmail.com) 
+#### ✉️ [**`guswns3371@gmail.com`**](mailto:guswns3371@gmail.com) 
   
  
 ### 보유 기술
@@ -45,11 +45,11 @@
   
 <br/>
 
-😁 [**알고리즘에 진심입니다!**](https://github.com/guswns3371/Algorithm)
+#### 😁 [**`알고리즘에 진심입니다!`**](https://github.com/guswns3371/Algorithm)
 
-🗒️ [**CS 지식을 쌓고 있어요!**](https://github.com/CS-studi/CS-study)
+#### 🗒️ [**`CS 지식을 쌓고 있어요!`**](https://github.com/CS-studi/CS-study)
   
-🌥️ [**블로그까지!**](https://velog.io/@guswns3371/about)
+#### 🌥️ [**`블로그까지!`**](https://velog.io/@guswns3371/about)
   
 <br/>
   
