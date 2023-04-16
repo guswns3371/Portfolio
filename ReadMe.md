@@ -45,11 +45,13 @@
   
 <br/>
 
-#### 😁 [**`알고리즘에 진심입니다!`**](https://github.com/guswns3371/Algorithm)
+#### 😁 [**`Algorithm`**](https://github.com/guswns3371/Algorithm)
 
-#### 🗒️ [**`CS 지식을 쌓고 있어요!`**](https://github.com/guswns3371/backend-cs-interview)
+#### 🗒️ [**`CS`**](https://github.com/guswns3371/backend-cs-interview)
   
-#### 🌥️ [**`블로그까지!`**](https://velog.io/@guswns3371/about)
+#### 🌥️ [**`velog`**](https://velog.io/@guswns3371/about) [**`tistory`**](https://hjoon95.tistory.com)
+
+#### ⛷️ [**`StudyForBetterLife`**](https://github.com/orgs/StudyForBetterLife/repositories?type=source)
   
 <br/>
   
