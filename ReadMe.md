@@ -47,7 +47,7 @@
 
 #### 😁 [**`Algorithm`**](https://github.com/guswns3371/Algorithm)
 
-#### 🗒️ [**`CS`**](https://github.com/guswns3371/backend-cs-interview)
+#### 🗒️ [**`CS`**](https://guswns3371.gitbook.io/backend-cs-interview-2)
   
 #### 🌥️ [**`velog`**](https://velog.io/@guswns3371/about) [**`tistory`**](https://hjoon95.tistory.com)
 
