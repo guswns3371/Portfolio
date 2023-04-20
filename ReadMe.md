@@ -47,7 +47,7 @@
 
 #### 😁 [**`Algorithm`**](https://github.com/guswns3371/Algorithm)
 
-#### 🗒️ [**`CS`**](https://guswns3371.gitbook.io/backend-cs-interview-2) [**`Effective Java`**](https://guswns3371.gitbook.io/effective-java-3e/)
+#### 🗒️ [**`CS`**](https://guswns3371.gitbook.io/study/v/backend-cs-interview-1) [**`Effective Java`**](https://guswns3371.gitbook.io/study/v/effective-java-3e/)
   
 #### 🌥️ [**`velog`**](https://velog.io/@guswns3371/about) [**`tistory`**](https://hjoon95.tistory.com)
 
